@@ -1,12 +1,17 @@
-### Hi there 👋
+### Olá, me chamo Ana Paula 😊
+
+<div>
+  • Desenvolvedora Front-end 💻<br />
+  • Estudante da RocketSeat 🚀<br />
+  • Estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá 🎓
+ </div>
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahblue&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahblue)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahblue&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahblue&theme=dark&layout=compact" />
+</div>
 
 ### Contatos
 
