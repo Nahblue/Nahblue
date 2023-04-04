@@ -15,5 +15,5 @@
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-007785?style-for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/ana-paula-costa-039b1181/)
+<a href="https://www.linkedin.com/in/ana-paula-costa-039b1181/"> <img src='https://img.shields.io/badge/LinkedIn-007785?style-for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30' /> </a>
 
