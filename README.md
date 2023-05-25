@@ -1,7 +1,7 @@
 ### Olá, me chamo Ana Paula 😊
 
 <p>
-  • Desenvolvedora Front-end 💻<br />
+  • Desenvolvedora Web 💻<br />
   • Estudante da RocketSeat 🚀<br />
   • Estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá 🎓
  </p>
